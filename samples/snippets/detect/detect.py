@@ -239,16 +239,17 @@ def detect_logos(path):
 
     response = client.logo_detection(image=image)
     logos = response.logo_annotations
-    print('Logos:')
+    #print('Logos:')
 
-    for logo in logos:
-        print(logo.description)
+    #for logo in logos:
+    #    print(logo.description)
 
     if response.error.message:
         raise Exception(
             '{}\nFor more info on error messages, check: '
             'https://cloud.google.com/apis/design/errors'.format(
                 response.error.message))
+    return [logo.description for logo in logos]
     # [END vision_python_migration_logo_detection]
 # [END vision_logo_detection]
 
@@ -359,21 +360,22 @@ def detect_text(path):
 
     response = client.text_detection(image=image)
     texts = response.text_annotations
-    print('Texts:')
+    #print('Texts:')
 
     for text in texts:
-        print('\n"{}"'.format(text.description))
+        #print('\n"{}"'.format(text.description))
 
         vertices = (['({},{})'.format(vertex.x, vertex.y)
                     for vertex in text.bounding_poly.vertices])
 
-        print('bounds: {}'.format(','.join(vertices)))
+        #print('bounds: {}'.format(','.join(vertices)))
 
     if response.error.message:
         raise Exception(
             '{}\nFor more info on error messages, check: '
             'https://cloud.google.com/apis/design/errors'.format(
                 response.error.message))
+    return texts
     # [END vision_python_migration_text_detection]
 # [END vision_text_detection]
 

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fmcg-vision",
+  "private_key_id": "71451fde95cf8aef20febf79a3d8fa08b914da08",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCxsHNP48oHy4GO\nfS1RWNS4gjhzl0O92EQi7eSRn8Spc9EBpaVNj2qDwm3QnFR5RwDfU/41M9RALOF1\n5GmJU+kZJ5p6EP+ytAJXYvWJwpIKxIx49EhsaAi60Rd8ROcad6JI9CYnbXS8H/vU\n9ijxj+DZJhR+JPk6ii6s77tUkr3J9aKhTmNkEj5rIZRxbqyYNKxozYwm68REjKtP\nPXD/b9yhXmpWbFR4VxteutvlALrwcFsvhW9DwUNbC8Mwrr7kLTvsGfSrLEkb87wg\n0BGmuq2Fv7NSCFwWYM8Vb9C4t3qqZPMSnJw07Lq6+kfHauwSqeChJpxK7e8k05Qx\nGNCxEkdZAgMBAAECggEADn92ZSQRmaG35Cuf/TVpg9VyLDJBH3YMFyqAXgZiai4O\nNVtx2Zp0RyRfx+fdd5i8wDwO74HXVVYkHjWhC8iqKfiCgOeuqULJNx6WqKMUveas\nDHloCFpTrgR97VCE57KvrdKn40spvWjBqC5eiFkkMCuMe/9hy243YTpdN0kSza3H\nVQksALW004RQP7bGVo9pqND63ATPj//L1UKM59qIWW6vrgvg6O7JncRRMxW0s8wN\nmTivN/5xNB0E32BIkoc10kdFq/UUmJfZL+QXBNXCj5/btUvXK6ueqlSzL9WZGf1o\nLYWfWbY5YUP/1yNjl6DSh2/tLx/Dlyhzeycd9YVpwQKBgQDsvCybZd/+UQxFveTp\nSC04M1Saj0pSaVASGvwCfw7RaIy+aWt5LQ60zVnZf1abMksrkMS9YOt6GoQ5Jl/J\nAHOPdmCP4s2dgdSzKnaqrSYnHigG5QLUeYfAShDo5cyDb51sI6HLOoylymmSvwDY\nuYxumNaHHHUqR9Er/Z+NJ/9RuQKBgQDAJjGpdE5Z8ZkhdUN0tar5A+1R0j7apu2Q\nkmti31edXL9gwDOSBLGLP+MEB5ITs7he96e4CpyQ43Mb9OB6sSrq2oVLx+o2LhsS\nZ/q7zRpUMHG6hIajcIaNjtniQbwosTvhIjETrQqh4ml37Pug8yUrc8Iy+zlWEnjO\nslaDW7fyoQKBgQCjGYIiDi4kqPIrmoj7sB53eeXwFoi9/pCL6Mt3bNJos/9DsJ26\n/rADIPemQXUJt7zSZwsk7oFNvrcaKLYVZZo4XPZqK3g97BT+22KmdGS0zrIFDgLF\nIHXGpUDBNJGSfHOY7XOq8Mu17Z6O28lZh3yZNfOXYqPWXWRfSn2CYuwlAQKBgFA5\nIg7fsj63MfnYHZvCpWlmDFVW9EsR2qm7l/4lxUy8BmL8nAtgzkeXGs754jE7ncR4\nnZunQorzi4GmkXpoMcTwCysCgnSwdzkOFI8IKO/xceovno7qUiMT+0ANteM/bAKo\n5diTLJc+Ek6xsLUYDvK/V9s1LFEVUT7rElexmXFBAn9UK2+V1BtwG5kpu2TT8lA8\nJRKnfXsmmfv9nu+Gim/hPq/9W9ThG8/KzVd+cgy/OFsOKPtMIw6wWPVMKbQjnQBo\nDFcjqN5y9ZL0rlI8jRyDD6Zc5kvFJF2gfWtXhXmWYp3gCFPLk18YY3te59sHx22h\navqEmx9cAH38P0TqIJHQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "fmcg-vision@fmcg-vision.iam.gserviceaccount.com",
+  "client_id": "101399949249838704422",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fmcg-vision%40fmcg-vision.iam.gserviceaccount.com"
+}

@@ -13,7 +13,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-
+#$env:GOOGLE_APPLICATION_CREDENTIALS="C:\Users\heinz\OneDrive - Yagora GmbH\Heinz Yagora privat\privat\computer_vision\python-vision\FMCG-Vision-71451fde95cf.json"
 
 def run_quickstart():
     # [START vision_quickstart]
